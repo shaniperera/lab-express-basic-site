@@ -124,18 +124,6 @@ nav a:hover {
   margin: 3rem;
 } 
 
-.contact-container {
-  display: flex;
- justify-content: space-around;
-
-}
-.contact-card {
-  background-color: #fff;
-  border-radius: 5px;
-  /* box-shadow: 0 3px 5px; */
-
-}
-
 .contact {
   min-height: 100vh;
   color: antiquewhite;
@@ -145,8 +133,7 @@ nav a:hover {
 .contact h2 {
   text-align: center;
   color: antiquewhite;
-  padding-top: 2em;;
-
+  padding-top: 2em;
 }
 
 .contact-form-container {
